@@ -1,0 +1,12 @@
+.contact-form {
+        padding: 1.5rem 3rem !important;
+        box-shadow: 0 1rem 3rem rgba(132, 138, 163, 0.1) !important;
+        background-color: #fff;
+        border-radius: .225rem 0 .625rem .625rem;
+}
+.modal-dialog {
+        max-width: 900px;
+}
+.modal-body {
+        padding: 0;
+}
